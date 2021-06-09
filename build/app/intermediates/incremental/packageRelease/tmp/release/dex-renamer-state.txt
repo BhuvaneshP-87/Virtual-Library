@@ -1,0 +1,4 @@
+#Wed Sep 23 23:45:17 IST 2020
+base.0=C\:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

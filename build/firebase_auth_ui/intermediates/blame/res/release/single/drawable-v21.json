@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\fui_idp_button_background_facebook.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\4f7d72e9ec329adc0248c858b0a30321\\jetified-firebase-ui-auth-4.3.1\\res\\drawable-v21\\fui_idp_button_background_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\9b806cc71296e01a86c2cbc5d704cc19\\appcompat-1.0.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\fui_idp_button_background_anonymous.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\4f7d72e9ec329adc0248c858b0a30321\\jetified-firebase-ui-auth-4.3.1\\res\\drawable-v21\\fui_idp_button_background_anonymous.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\5b8189b26ae1b4d34292ca3a7096c0e3\\material-1.0.0\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\5b8189b26ae1b4d34292ca3a7096c0e3\\material-1.0.0\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\fui_idp_button_background_google.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\4f7d72e9ec329adc0248c858b0a30321\\jetified-firebase-ui-auth-4.3.1\\res\\drawable-v21\\fui_idp_button_background_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\9b806cc71296e01a86c2cbc5d704cc19\\appcompat-1.0.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\fui_idp_button_background_email.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\4f7d72e9ec329adc0248c858b0a30321\\jetified-firebase-ui-auth-4.3.1\\res\\drawable-v21\\fui_idp_button_background_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\fui_idp_button_background_phone.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\4f7d72e9ec329adc0248c858b0a30321\\jetified-firebase-ui-auth-4.3.1\\res\\drawable-v21\\fui_idp_button_background_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\tw__like_action.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\b2634bc2b773aaf001c97fd9cdcdc2a3\\jetified-tweet-ui-3.3.0\\res\\drawable-v21\\tw__like_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\fui_idp_button_background_twitter.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\4f7d72e9ec329adc0248c858b0a30321\\jetified-firebase-ui-auth-4.3.1\\res\\drawable-v21\\fui_idp_button_background_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\9b806cc71296e01a86c2cbc5d704cc19\\appcompat-1.0.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\9b806cc71296e01a86c2cbc5d704cc19\\appcompat-1.0.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\5b8189b26ae1b4d34292ca3a7096c0e3\\material-1.0.0\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\fui_idp_button_background_github.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\4f7d72e9ec329adc0248c858b0a30321\\jetified-firebase-ui-auth-4.3.1\\res\\drawable-v21\\fui_idp_button_background_github.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\5b8189b26ae1b4d34292ca3a7096c0e3\\material-1.0.0\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\9b806cc71296e01a86c2cbc5d704cc19\\appcompat-1.0.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva\\Desktop\\EnR\\enr_library\\build\\firebase_auth_ui\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\bhuva\\.gradle\\caches\\transforms-2\\files-2.1\\3aaf6e5219b7f981ec263df919098c6f\\core-1.1.0\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]
